@@ -166,7 +166,7 @@ echo -e "\e[92m[\e[91m~\e[92m]\e[93m This feature doesn't works sometimes !!\e[9
 echo ""
 echo -e "\e[92m[\e[91m~\e[92m]\e[93m Remember you can only send one msg per day !\e[93m"
 echo ""
-read -p "Press enter to continue... "
+read -p "Press enter to continue.... "
 fi
 
 
