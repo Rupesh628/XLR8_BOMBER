@@ -1,7 +1,7 @@
 #!/bin/bash
 #---------------------------------
 #        XLR8 BOMBER 2.0 !
-#    Coded by Adarsh Prakash
+#    Coded by Rupesh Sah 
 #   Dont try to Steal it Bitch
 #---------------------------------
 
@@ -99,7 +99,7 @@ printf "\e[1;92m[\e[0m xlr8\e[1;92m ]\e[0m \e[1;93mEnter target  >>> \e[0m\n"
 read -p '---------------> ' targett
 printf "\n"
 echo $targett > targetlist.txt
-printf ">~~~>\e[1;92m Starting Attack On +91$targett \e[0m<~~~<"
+printf ">~~~>\e[1;92m Starting Attack On +977$targett \e[0m<~~~<"
 sleep 1
 echo ""
 echo ""
@@ -185,7 +185,7 @@ echo "------------------------------"
 printf "\e[1;33mThis tool is only for Educational Purposes !!\e[0m"
 echo ""
 echo "------------------------------"
-echo -e "\e[34mThis Bomber Only Works In India :)"
+echo -e "\e[34mThis Bomber Only Works In Nepal :)"
 echo "------------------------------"
 echo ""
 sleep 1
